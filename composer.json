@@ -9,10 +9,9 @@
 		"homepage": "http://www.innoweb.com.au"
 	}],
 	"require": {
-		"silverstripe/cms": "^4",
-		"silverstripe/vendor-plugin": "^1",
-        "silvershop/core": "^3.0",
-        "suilven/silverstripe-track-member": "~1.0",
+		"silverstripe/cms": "^4|^5",
+		"silverstripe/vendor-plugin": "^1|^2",
+        "silvershop/core": "^3.0|^4.0",
         "omnipay/stripe": "^3.0"
 	},
 	"autoload": {
